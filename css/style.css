@@ -1,0 +1,121 @@
+header {
+    background-color: rgb(158, 1, 1);
+    color: white;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(158, 1, 1);
+  }
+  
+  nav ul li {
+    display: inline;
+    padding: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: "Metal Mania", cursive;
+  }
+  h1 {
+    font-family: "Metal Mania", cursive;
+    color: white;
+    font-size: 50px;
+  }
+  footer {
+    background-color: rgb(158, 1, 1);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0
+  }
+  .h2 {
+    color: red;
+  }
+  #Left {
+    float: left;
+    width: 874.5px;
+    padding: 10px 20px;
+    border-right: 4px dotted orange;
+    color: orange;
+  }
+
+  dt {
+    font-weight: bold;
+  }
+  
+  dl,
+  dd {
+    font-size: 0.9rem;
+  }
+  
+  dd {
+    margin-bottom: 1em;
+  }
+  #thanks {
+    float: left;
+    padding: 15px;
+    height: 200px;
+    width: 200px;
+  }
+  .Facts {
+    margin: 0 0 0 6em; padding: 0;
+	color: red;
+	list-style-type: square;
+	list-style-position: inside;
+  font-size: 14px;
+  }
+  h3 {
+    font-size: 35px;
+  }
+  #right {
+    float: right;
+    width: 874.5px;
+    padding: 10px 20px;
+  }
+  #right h3 {
+    clear: left;
+    margin: 0.5em 0 0.3em 0;
+    }
+  #right h3 span {
+    display: inline-block;
+    width: 10px; height: 10px;
+    margin-right: 1em;
+    border: 5px solid rgb(252, 1, 1);
+    vertical-align: middle;
+    }
+.photo {
+    height: 200px;
+    width: 200px;
+    padding: 15px;
+    float: left;
+	margin: 0 15px 15px 0;
+  }
+#right h4 {
+    margin: 0;
+    font-size: 100%;
+    font-weight: bold;
+    }
+#right .link {
+        text-align: right;
+     }
+.head2 {
+  clear: left;
+  margin: 0.5em 0 0.3em 0;
+}
+#Only {
+  float: left;
+    padding: 15px;
+    height: 450px;
+    width: 600px;
+}
+  
