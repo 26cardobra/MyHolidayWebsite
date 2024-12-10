@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(158, 1, 1);
+    background-color: rgb(255, 178, 66);
     color: white;
     padding: 1em;
     text-align: center;
@@ -10,7 +10,7 @@ header {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(158, 1, 1);
+    background-color: rgb(255, 178, 66);
   }
   
   nav ul li {
@@ -30,7 +30,7 @@ header {
     font-size: 50px;
   }
   footer {
-    background-color: rgb(158, 1, 1);
+    background-color: rgb(255, 178, 66);
     color: white;
     text-align: center;
     padding: 10px;
@@ -39,7 +39,7 @@ header {
     bottom: 0
   }
   .h2 {
-    color: red;
+    color: orange;
   }
   #Left {
     float: left;
@@ -69,10 +69,11 @@ header {
   }
   .Facts {
     margin: 0 0 0 6em; padding: 0;
-	color: red;
+	color: orange;
 	list-style-type: square;
 	list-style-position: inside;
   font-size: 14px;
+
   }
   h3 {
     font-size: 35px;
@@ -81,6 +82,7 @@ header {
     float: right;
     width: 874.5px;
     padding: 10px 20px;
+    color: orange;
   }
   #right h3 {
     clear: left;
@@ -90,7 +92,7 @@ header {
     display: inline-block;
     width: 10px; height: 10px;
     margin-right: 1em;
-    border: 5px solid rgb(252, 1, 1);
+    border: 5px solid rgb(255, 178, 66);
     vertical-align: middle;
     }
 .photo {
@@ -125,4 +127,6 @@ header {
 	list-style-position: inside;
   font-size: 14px;
 }
-  
+#gallery {
+  height: 125px;
+}
